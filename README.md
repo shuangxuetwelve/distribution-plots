@@ -1,3 +1,6 @@
+# Distribution Plots（分布图表）
+
+
 ```python
 # Third-party imports
 import numpy as np
@@ -5,7 +8,7 @@ import scipy
 import matplotlib.pyplot as plt
 ```
 
-# Geometric Distribution（几何分布）
+## Geometric Distribution（几何分布）
 
 
 ```python
@@ -31,11 +34,11 @@ plt.show()
 
 
     
-![png](README_files/README_2_0.png)
+![png](README_files/README_3_0.png)
     
 
 
-# Poisson Distribution（泊松分布）
+## Poisson Distribution（泊松分布）
 
 
 ```python
@@ -61,6 +64,6 @@ plt.show()
 
 
     
-![png](README_files/README_4_0.png)
+![png](README_files/README_5_0.png)
     
 
